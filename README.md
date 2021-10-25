@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @feyzaerat
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=feyzaerat&show_icons=true">
 
-<!---
-feyzaerat/feyzaerat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Merhaba, ben Feyza Karanfil Erat!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=feyzaerat" alt="feyzaerat" /> </p>
+
+[![](https://img.shields.io/github/followers/feyzaerat?style=social)](https://www.github.com/feyzaerat)
+[![](https://img.shields.io/badge)](https://feyzaerat.com.tr)
+
+
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/feyzakaranfilerat/)
+[![Mail Badge](https://img.shields.io/badge/feyzakrnfl@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mertcobanov@gmail.com)](mailto:feyzakrnfl@gmail.com)
+
+
