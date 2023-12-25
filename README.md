@@ -1,6 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=feyzaerat&show_icons=true">
 
-# Merhaba, ben Feyza Karanfil Erat!
+# Hi, This is Feyza !
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=feyzaerat" alt="feyzaerat" /> </p>
 
 [![](https://img.shields.io/github/followers/feyzaerat?style=social)](https://www.github.com/feyzaerat)
