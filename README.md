@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Feyza KARANFİL ERAT and I'm a fullstack developer, from Kocaeli, Turkey.</h2>
+<h2 align="left">Hi 👋! My name is Feyza KARANFİL ERAT and I'm a fullstack developer, from Turkey.</h2>
 
 ###
 
