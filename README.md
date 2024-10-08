@@ -49,7 +49,8 @@
   </a>
 
   <a href="https://www.feyzaerat.com.tr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=feyzaerat.com.tr&logo=fa-globe&label=&color=E1ABA2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website logo" />
+    <img src="https://img.shields.io/static/v1?message=feyzaerat.com.tr&logo=fa-globe&label=&color=E1ABA2&logoColor=white&labelColor=white&style=for-the-badge" height="35" alt="website logo" />
+
 </a>
 
 </div>
