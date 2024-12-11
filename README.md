@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Feyza and I'm a Fullstack Developer, from Turkey</h2>
+
 
 ###
 
